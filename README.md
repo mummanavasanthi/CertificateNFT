@@ -25,10 +25,11 @@ The smart contract allows users to mint certificate NFTs and track the total num
 ---
 
 ## Deployment Steps
-1.Open Remix IDE
-2.Create a new Solidity file named CertificateNFT.sol
-3.Paste the smart contract code
-4.Compile using Solidity version 0.8.20
-5.Select Remix VM as the deployment environment
-6.Deploy the smart contract
-7.Execute the mint() function to mint NFT certificates
+
+- Open Remix IDE  
+- Create a new Solidity file named `CertificateNFT.sol`  
+- Paste the smart contract code into the file  
+- Compile the contract using Solidity version `0.8.20`  
+- Select `Remix VM` as the deployment environment  
+- Deploy the smart contract  
+- Execute the `mint()` function to mint Internship Certificate NFTs 
